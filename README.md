@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **nandiodifanusantara473@gmail.com**
+- 📫 How to reach me **nandiodifanusantarawk@gmail.com**
 
 - 📄 Know about my experiences [https://nandiodifanusantara.netlify.app/](https://nandiodifanusantara.netlify.app/)
 
