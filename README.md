@@ -20,7 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NandioWK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/NandioWK/NandioWK/output/snake.svg" alt="Snake animation" />
-
-###
